@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Scenario: User Able To Login The Web Application
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.255 s - in Scenario: User Able To Login The Web Application
